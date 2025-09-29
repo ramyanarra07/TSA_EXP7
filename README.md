@@ -107,12 +107,12 @@ plt.show()
 ```
 ### OUTPUT:
 
-GIVEN DATA
+#### GIVEN DATA
 
 <img width="1246" height="359" alt="image" src="https://github.com/user-attachments/assets/72a5e6cd-0b30-49c5-aa9b-c5d195975861" />
 
 
-PACF - ACF
+#### PACF - ACF
 
 <img width="674" height="577" alt="image" src="https://github.com/user-attachments/assets/b3b24672-0c6f-4b91-ac70-4c103e3b0470" />
 
@@ -121,12 +121,13 @@ PACF - ACF
 
 
 
-PREDICTION
+#### PREDICTION
 
 <img width="1149" height="575" alt="image" src="https://github.com/user-attachments/assets/e6e20c19-f7e7-4770-bb5b-40a9723d0b5a" />
 
 
-FINIAL PREDICTION
+#### FINIAL PREDICTION
+
 <img width="474" height="320" alt="image" src="https://github.com/user-attachments/assets/4717b706-c6ff-49e3-8fa4-370d1de759f4" />
 
 
